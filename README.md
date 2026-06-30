@@ -14,7 +14,7 @@ a working landing page, and an end-to-end integration design for the OrthoNow
 **GitHub:**  
 https://github.com/Mudabbirarafat/orthonow-developer-assignment
 **Loom Walkthrough:**  
-https://www.loom.com/share/YOUR_LOOM_LINK
+https://www.loom.com/share/f92fd58201a8427f8a177bbfa728557b
 
 ## Contents
 
